@@ -1,55 +1,51 @@
-## Your Name
+## Alec Walker
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a young, London-based STEM graduate with a diverse set of skills and interests spanning creative and technical fields. I obtained a 2:1 BSc in Zoology from the University of Leeds, performed in critically-acclaimed shows at the Edinburgh Festival Fringe and have spent the last two years working for BioMed Central, a pioneer of online, open-access scientific publishing. I am excited to be working in tech because of opportunity to tackle complex, multi-dimensional challenges.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### High level of computer literacy
+I have a firm grounding in core IT programs, and an aptitude for quickly learning new systems. I am always eager to expand my technical repertoire.
 
-#### This Skill
+- Good knowledge of and comfort with Microsoft Office software including Word, Excel, Powerpoint and Outlook
+- Extensive use of multiple record-keeping and Content Management Systems in my position as an Editorial Assistant at BioMed Central
+- Rapidly achieved a high level of technical proficiency in previously unknown programs, and used this knowledge to update, maintain and customise a portfolio of over forty journal websites.
+- Example: Frequently updating journal web pages to highlight featured articles, conference dates and news within relevant research fields. This often required the implementation of images, videos, internal and external web links, and placeholder content items linked to internal data stores.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication and inter-personal skills
 
-#### Another Skill
+I have fostered strong communication skills through my professional and personal exploits. I am a confident speaker and presenter, capable of working comfortably alone or within a group. I have been involved in organising and leading technical training sessions for newer team members at my previous position.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I have held major roles in many theatre productions, including two critically-acclaimed runs at the Edinburgh Festival Fringe. In addition to being a creative passion, these projects have strengthened my public speaking and presentation skills.
+- I contributed to the growth of the public profile of several scientific journals a in my role at BioMed Central, often through identifying new and interesting articles and pitching them in person to the communications team.
+- I have worked in public-facing and customer service roles as a shop assistant and a Goods in and Distribution assistant. Both positions involved meeting and interacting with the general public on a daily basis.
+- I am proficient in relaying technical information in an efficient, accessible manner, as evidenced by a blog post I authored in my role at BioMed Central to accompany a featured article (https://blogs.biomedcentral.com/on-biology/2017/07/20/hearts-minds-mice-men-mechano-growth-factor-new-tool-battle-age-related-neuron-loss/)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2019 to December 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (2012 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BSc in Zoology (2:1)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**BioMed Central** (May 2017 to July 2019)    
+*Editorial Assistant*
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Royal National Theatre** (February 2016 to May 2017)   
+*Goods In and Distribution Assistant*
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my spare time, I am an avid player of board games, card games and videogames across a broad range of genres and platforms. I am very interested in game design, and am hoping to find a role in the videogame industry.
+
+I also greatly enjoy Dungeons and Dragons, having run a two and a half-year campaign as Game Master for a group of seven players.
+
+I have acted in many school / college/ university productions and have performed as part of a theatre company at the Edinburgh Fringe Festival.
