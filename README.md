@@ -6,9 +6,9 @@ I am a London-based STEM graduate with a diverse set of skills and interests spa
 
 #### High level of techincal literacy
 
-- High proficiency with Microsoft Office software including Word, Excel, Powerpoint and Outlook
+- Strong foundation in and appreciation of agile coding techniques
 - Experience with Content Management Systems and website UI arrangement.
-- Familiarity with Ruby, Javascript, Swift/Xcode and C#
+- Familiarity with Ruby, Javascript, Swift/Xcode and C++
 
 #### Communication and inter-personal skills
 
@@ -25,6 +25,8 @@ I am a London-based STEM graduate with a diverse set of skills and interests spa
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - Xcode, Swift
+
+For my final team project I helped build a map-based puzzle game for iOS themed around Jack the Ripper (https://github.com/robertamangiapane/Team-6-Game)
 
 #### University of Leeds (2012 to 2015)
 
